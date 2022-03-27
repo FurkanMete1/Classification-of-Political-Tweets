@@ -1,3 +1,2 @@
 # Classification-of-Political-Tweets
-Purpose of this project is to find relationship between attitudes of different political groups and to predict the tweets’ political groups and tags with using machine learning algorithms on python…
-
+Purpose of this project is to find relationship between attitudes of different political groups and to predict the tweets’ political groups and tags with using machine learning algorithms on python. Dataset includes 5000 political tweets from U.S. in 2015. Messages were broken down into audience (national or the tweeter's constituency), bias (neutral/bipartisan, or biased/partisan), and finally tagged as the actual substance of the message itself (options ranged from informational, announcement of a media appearance, an attack on another candidate, etc.
