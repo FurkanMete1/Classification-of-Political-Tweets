@@ -1,0 +1,3 @@
+# Classification-of-Political-Tweets
+Purpose of this project is to find relationship between attitudes of different political groups and to predict the tweets’ political groups and tags with using machine learning algorithms on python…
+
